@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBaSrSPnGatyu363qNpH9c14PWQqevkwkY",
-  authDomain: "insta-clone-9c3c6.firebaseapp.com",
-  databaseURL: "https://insta-clone-9c3c6-default-rtdb.firebaseio.com",
-  projectId: "insta-clone-9c3c6",
+  apiKey: "your api",
+  authDomain: "your domain name",
+  databaseURL: "database url",
+  projectId: "your project id",
   storageBucket: "insta-clone-9c3c6.appspot.com",
   messagingSenderId: "1012873969055",
-  appId: "1:1012873969055:web:c64b021a67f5a0004a91aa",
+  appId: "your app id",
   measurementId: "G-60HJS6Q8EH"
 };
 
